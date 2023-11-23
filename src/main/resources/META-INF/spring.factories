@@ -1,0 +1,4 @@
+org.springframework.data.r2dbc.dialect.DialectResolver$R2dbcDialectProvider=\
+  io.snynx.namegengrpcserver.configuration.DB2R2dbcDialect$Provider
+org.springframework.r2dbc.core.binding.BindMarkersFactoryResolver$BindMarkerFactoryProvider=\
+  io.snynx.namegengrpcserver.configuration.DB2R2dbcDialect$Provider
